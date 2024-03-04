@@ -1,0 +1,3 @@
+[submodule "deps/gta-natives"]
+	path = deps/gta-natives
+	url = git@github.com:citizenfx/natives.git
